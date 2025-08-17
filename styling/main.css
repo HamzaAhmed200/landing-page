@@ -119,6 +119,9 @@ html body {
   right: 5px;
   top: -20px;
 }
+.header .links ul li {
+  transition: 0.1s all ease;
+}
 .header .links ul li a {
   display: block;
   padding: 0.9375rem;

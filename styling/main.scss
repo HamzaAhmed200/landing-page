@@ -125,6 +125,7 @@ html {
                 top: -20px;
             }
             li {
+                transition: 0.1s all ease;
                 a{
                 display: block;
                 padding: 0.9375rem;
